@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Alejandro S. Orosco</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Alejandro S. Orosco</h1>
+<h3 align="center">Dev</h3>
 
 
 <p align="left">
